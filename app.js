@@ -6,4 +6,4 @@ function nameOf(params) {
 
 nameOf({ a: 1, b: 2 })
 
-console.log("hello");
+console.log("hello from main");
