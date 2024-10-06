@@ -1,7 +1,7 @@
 function nameOf(params) {
 
-    let c = params.a + params.b
-    console.log(c)
+
+    console.log(params.a + params.b)
 }
 
 nameOf({ a: 1, b: 2 })
